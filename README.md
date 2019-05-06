@@ -1,8 +1,8 @@
 ### Entry-form Vue.js project
 
-#### ![Entry-form](http://phpstack-228259-831892.cloudwaysapps.com/form.jpg)
+#### ![Entry-form](http://phpstack-228259-831892.cloudwaysapps.com/entryform.jpg)
 
-#### Take-home test - a data entry form built using Vue.js, BootstrapVue and Axios, Regex for field validation. 
+#### A data entry form built using Vue.js, BootstrapVue and Axios, Regex for field validation. 
 #### [SEE IT LIVE HERE](http://phpstack-228259-831892.cloudwaysapps.com/)
 
 #### Submits data to the Laravel backend.
